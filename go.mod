@@ -132,3 +132,5 @@ replace (
 	k8s.io/sample-cli-plugin => k8s.io/sample-cli-plugin v0.23.6
 	k8s.io/sample-controller => k8s.io/sample-controller v0.23.6
 )
+
+replace gopkg.in/yaml.v2 => gopkg.in/yaml.v2 v2.4.0
